@@ -28,10 +28,10 @@ Due to the way the extension loads, spectating breaks some UI elements; you'll b
 # TODOS
 ## Completed
 - Phoenix Wright: Ace Attorney OST 
-
-## Incomplete / Not Started
 - Phoenix Wright: Ace Attorney Justice for All OST
 - Phoenix Wright: Ace Attorney Trials and Tribulations OST
+
+## Incomplete / Not Started
 - Phoenix Wright vs Professor Layton's OST
 - Ace Attorney Investigations 1 & 2 OST
 - DGS 1 and DGS 2 OST
